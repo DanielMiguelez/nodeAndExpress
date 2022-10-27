@@ -1,4 +1,4 @@
-# Introduccion del ejerccicio.
+# Introduccion del ejercicio.
 
 Express es un framework web transigente, escrito en JavaScript y alojado dentro del entorno de ejecución NodeJS. El módulo explica algunos de los beneficios clave de este framework, como configurar tu entorno de desarrollo y cómo realizar tareas comunes en desarrollo y publicación web.
 
