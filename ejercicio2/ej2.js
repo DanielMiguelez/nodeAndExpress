@@ -7,7 +7,7 @@ app.get('/',(req, res) => {
 });
 
 app.get('/products/:name',(req, res) => {
-    res.send("lista de productos" + req.params.name);
+    res.send("lista de productos");
   });
 
 app.post('/products',(req, res) => {
